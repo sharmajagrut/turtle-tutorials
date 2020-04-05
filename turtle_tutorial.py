@@ -3,4 +3,5 @@ import turtle
 t = turtle.Turtle()
 t.forward(100)
 t.right(90)
-turtle.exitonclick()
+#turtle.exitonclick()
+turtle.done()
